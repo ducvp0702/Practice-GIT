@@ -1,4 +1,4 @@
-GIT Cheat Sheet
+GIT Cheat seat
 
 - Delete commit
 		git rebase -i <hashID>
